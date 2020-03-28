@@ -7,11 +7,11 @@ namespace design_patterns_factory_method
     {
         private static readonly string connectionString = "User ID=postgres;Password=;Host=localhost;Port=5432;Database=store;Pooling=true;";
 
-        static void Main(string[] args)
+        static void Main()
         {
             var connection = DatabaseFactory.Database(DataBase.PostgreSql)
-                .CreateConnector(connectionString)
-                .Connect();
+                                            .CreateConnector(connectionString)
+                                            .Connect();
 
             if (connection.State.Equals(ConnectionState.Open))
             {
