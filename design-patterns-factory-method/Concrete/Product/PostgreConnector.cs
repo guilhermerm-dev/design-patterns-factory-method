@@ -13,7 +13,7 @@ namespace design_patterns_factory_method
 
         public override IDbConnection Connect()
         {
-            Console.WriteLine("Conectando ao banco Postgre...");
+            Console.WriteLine("\nConnecting to Postgre Database...");
             var connection = new NpgsqlConnection(ConnectionString);
             connection.Open();
 
