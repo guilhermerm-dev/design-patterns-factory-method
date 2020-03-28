@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>design_patterns_factory_method</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="4.1.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enum\" />
+    <Folder Include="Abstract\" />
+    <Folder Include="Abstract\FactoryMethod\" />
+    <Folder Include="Abstract\Product\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Concrete\FactoryMethod\" />
+    <Folder Include="Concrete\Product\" />
+  </ItemGroup>
+</Project>

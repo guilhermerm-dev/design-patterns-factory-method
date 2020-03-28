@@ -1,0 +1,14 @@
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/design-patterns-factory-method.deps.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/design-patterns-factory-method.runtimeconfig.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/design-patterns-factory-method.runtimeconfig.dev.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/design-patterns-factory-method.dll
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/design-patterns-factory-method.pdb
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.csprojAssemblyReference.cache
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.csproj.CoreCompileInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.AssemblyInfoInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.AssemblyInfo.cs
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.csproj.CopyComplete
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.dll
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.pdb
+/Users/guilhermerm/Documents/PersonalProjects/C#/design-patterns-factory-method/design-patterns-factory-method/obj/Debug/netcoreapp3.1/design-patterns-factory-method.genruntimeconfig.cache
