@@ -2,6 +2,7 @@
 {
     public enum DataBase
     {
-        PostgreSql
+        PostgreSql,
+        SqlServer
     }
 }

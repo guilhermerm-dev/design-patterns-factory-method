@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{FDAD59DE-0978-428C-8240-167ADDFDE8AC}|Default">
   <MonoDevelop.Ide.ItemProperties.design-patterns-factory-method PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="design-patterns-factory-method/Abstract/FactoryMethod/DatabaseFactory.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="design-patterns-factory-method/Program.cs">
     <Files>
-      <File FileName="design-patterns-factory-method/Program.cs" Line="12" Column="50" />
-      <File FileName="design-patterns-factory-method/DataBaseConnector.cs" Line="15" Column="1" />
-      <File FileName="design-patterns-factory-method/DatabaseFactory.cs" Line="9" Column="39" />
-      <File FileName="design-patterns-factory-method/Enum/DataBase.cs" Line="8" Column="1" />
-      <File FileName="design-patterns-factory-method/Concrete/FactoryMethod/PostgreFactory.cs" Line="1" Column="1" />
-      <File FileName="design-patterns-factory-method/Concrete/Product/PostgreConnector.cs" Line="1" Column="1" />
+      <File FileName="design-patterns-factory-method/Program.cs" Line="12" Column="10" />
+      <File FileName="design-patterns-factory-method/Abstract/FactoryMethod/DatabaseFactory.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,15 +11,14 @@
           <Node name="design-patterns-factory-method" expanded="True">
             <Node name="design-patterns-factory-method" expanded="True">
               <Node name="Abstract" expanded="True">
-                <Node name="FactoryMethod" expanded="True">
-                  <Node name="DatabaseFactory.cs" selected="True" />
-                </Node>
-                <Node name="Product" expanded="True" />
+                <Node name="FactoryMethod" expanded="True" />
               </Node>
               <Node name="Concrete" expanded="True">
                 <Node name="FactoryMethod" expanded="True" />
                 <Node name="Product" expanded="True" />
               </Node>
+              <Node name="Enum" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -33,7 +28,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/guilhermerm/Documents/PersonalProjects/Csharp/design-patterns-factory-method/design-patterns-factory-method/Abstract/FactoryMethod/DatabaseFactory.cs" relfile="design-patterns-factory-method/Abstract/FactoryMethod/DatabaseFactory.cs" line="15" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

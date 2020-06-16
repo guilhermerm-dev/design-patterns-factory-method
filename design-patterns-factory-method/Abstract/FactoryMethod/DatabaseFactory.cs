@@ -8,10 +8,13 @@ namespace design_patterns_factory_method
 
         public static DatabaseFactory Database(DataBase dataBase)
         {
-            if (dataBase.Equals(DataBase.PostgreSql))
-                return new PostgreFactory();
 
-            throw new ApplicationException("Database's type not found !");
+            return dataBase switch
+            {
+                DataBase.PostgreSql => new PostgreFactory(),
+                DataBase.SqlServer => new SqlServerFactory(),
+                _ => throw new ApplicationException("Database's type not found !"),
+            };
         }
     }
 }
